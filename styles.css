@@ -1,0 +1,84 @@
+.all {}
+
+.size {
+    width:200px;
+}
+
+.living-room {
+    width: 800px;
+}
+
+.begin {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.living-room-div {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.continue {
+    margin: 50px;
+}
+
+.continue-div {
+    display: flex;
+    justify-content: center;
+}
+
+.selection1 {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.exit {
+    margin: 50px;
+}
+
+.stay {
+    margin: 50px;
+}
+
+.footsteps {
+    display:flex;
+    justify-content:center;
+}
+
+.eye {
+    width:70px;
+}
+
+.button {
+    display:flex;
+    justify-content:center;
+    margin:50px;
+}
+
+.button-div {
+    display:flex;
+    justify-content:center;
+    margin:50px;
+}
+
+.fire {
+    display:flex;
+    justify-content:center;
+}
+
+.foot1 {
+    border:3px solid orange;
+    padding:25px;
+}
+.foot2 {
+    border:3px solid lightblue;
+    padding:25px;
+}
+
+.foot3 {
+    border:3px solid violet;
+    padding:25px;
+}
